@@ -1,8 +1,6 @@
 # 🌤️ Weather App  
 *A modern, responsive weather application built with HTML, CSS, and JavaScript*
 
-![Weather App Screenshot](temp.PNG) <!-- Replace with your actual screenshot -->
-
 ## 📌 Overview  
 This project is a fully responsive weather application that fetches real-time weather data using a third-party API (e.g., OpenWeatherMap). It features a sleek, gradient-themed UI with animated interactions, dynamic DOM updates, and mobile-first design principles. Users can search for cities, view temperature, humidity, wind speed, and weather icons, and receive error handling for invalid inputs.
 
